@@ -4,6 +4,7 @@
 1.建立database twfinancial
   建立table twfinancial.stock
   建立table twfinancial.company
+![image](https://github.com/newComer0129/Download-TWSE-and-TSMC-daily-price/blob/main/pic/Create_DB_and_Table.png)
 
 2.程式流程<br>
 上市公司名單
@@ -18,6 +19,14 @@ TSMC股價
 3. 2023 2024 日期 開 高 低 收 組合成 sql query(insert) ==>  儲存成sql檔
 
 3.MySql 命令列中執行sql檔案,把公司名單和TSMC每日股價寫入database
+![image](https://github.com/newComer0129/Download-TWSE-and-TSMC-daily-price/blob/main/pic/insert_company.png)
+![image](https://github.com/newComer0129/Download-TWSE-and-TSMC-daily-price/blob/main/pic/show_company.png)
+
+
+![image](https://github.com/newComer0129/Download-TWSE-and-TSMC-daily-price/blob/main/pic/insert_2330_2023_2024_price.png)
+![image](https://github.com/newComer0129/Download-TWSE-and-TSMC-daily-price/blob/main/pic/show_2330_price.png)
+
+
 
 
 
